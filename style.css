@@ -54,6 +54,7 @@ body {
 .messageText {
   position: absolute;
   left: 20vw;
+  margin: auto;
 }
 
 .messageSender {
@@ -63,7 +64,7 @@ body {
 
 .messageDiv {
   height: 10vh;
-  background-color: rgb(54, 160, 179);
+  background-color: rgb(69, 203, 226);
   font-size: 5vh;
 }
 
